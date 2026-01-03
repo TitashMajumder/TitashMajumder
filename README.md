@@ -16,7 +16,7 @@
 ---
 
 ### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, SQL  
+- **Languages:** Python, Java, SQL  
 - **Backend:** Django, Django REST Framework, FastAPI  
 - **AI/ML:** TensorFlow, CNNs, Fuzzy Logic  
 - **Databases:** PostgreSQL, MySQL  
@@ -40,10 +40,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TitashMajumder&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TitashMajumder&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TitashMajumder&theme=tokyonight" />
 </p>
 
 ---
