@@ -1,4 +1,7 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" alt="Profile Banner" width="100%" />
+</p>
+
 
 <!--
 **TitashMajumder/TitashMajumder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
