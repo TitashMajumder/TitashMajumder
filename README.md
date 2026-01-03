@@ -31,30 +31,6 @@
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 B.Tech (Information Technology) student  
-- 🐍 Python developer focused on backend systems and automation  
-- 🤖 Built AI-driven projects like **JARVIS**, **Help the Green**, and secure backend APIs  
-- 🔐 Interested in secure coding and cybersecurity fundamentals  
-
----
-
-### 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, SQL  
-- **Backend:** Django, Django REST Framework, FastAPI  
-- **AI/ML:** TensorFlow, CNNs, Fuzzy Logic  
-- **Databases:** PostgreSQL, MySQL  
-- **Tools:** Git, GitHub, Docker (basic), Linux  
-
----
-
-### 🚀 Projects
-- 🌱 **Help the Green** – AI-based tree health monitoring system  
-- 🔐 **Mini User Management System** – JWT auth, RBAC, secure APIs  
-- 🧠 **JARVIS AI Assistant** – Voice assistant with automation & LLMs  
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TitashMajumder&show_icons=true&theme=tokyonight" />
@@ -69,20 +45,4 @@
 ### 📫 Connect With Me
 - 📧 Email: majumdertitash@gmail.com  
 - 🔗 GitHub: https://github.com/TitashMajumder  
-- 💼 LinkedIn: (add if you want)
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TitashMajumder&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TitashMajumder&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 📫 Connect With Me
-- 📧 Email: majumdertitash@gmail.com  
-- 🔗 GitHub: https://github.com/TitashMajumder  
-- 💼 LinkedIn: (add if you want)
+- 💼 LinkedIn: https://www.linkedin.com/in/titash-majumder-38a6261b6/
