@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Profile Banner" width="100%" />
+  <img src="[banner.png](https://github.com/TitashMajumder/TitashMajumder/blob/main/one-piece-gear-5-luffy-3840x2160-12504.png)" alt="Profile Banner" width="100%" />
 </p>
 
 
