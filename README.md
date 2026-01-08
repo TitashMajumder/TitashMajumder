@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hi, I'm Titash Majumder</h1>
 <h3 align="center">Python Developer | Backend & AI Projects | CyberSecurity Enthusiast</h3>
 
----
+--
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech (Information Technology) student  
